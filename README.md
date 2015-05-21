@@ -5,6 +5,12 @@
 
 根据page目录下的html页面生成config.json文件
 
+# 安装
+
+```
+npm install -g fis-postpackager-na-buildpackage
+```
+
 # 配置
 ```js
 fis.config.merge({
