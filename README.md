@@ -12,7 +12,7 @@ npm install -g fis-postpackager-na-buildpackage
 ```
 
 # 配置
-```js
+```javascript
 fis.config.merge({
     modules: {
         postpackager: ["na-buildpackage"]
@@ -24,7 +24,7 @@ fis.config.merge({
             }
         }
     }
-})
+});
 ```    
 # 选项    
     
@@ -36,6 +36,6 @@ config.json中的id字段
 
 要忽略的html文件，格式为正则表达式，如
 
-```js
+```javascript
 /^\/page\/more.+\.html$/i
 ```
