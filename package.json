@@ -1,0 +1,11 @@
+{
+    "name": "fis-postpackager-na-buildpackage",
+    "version": "0.0.4",
+    "description": "创建NA组件化的配置文件",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "chshouyu",
+    "license": "MIT"
+}
